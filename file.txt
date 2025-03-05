@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <h1>My First App!
+    <button>Press me</button>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br/>Deserunt impedit voluptas beatae <hr/>possimus animi nam! Necessitatibus, atque officia sequi adipisci et similique iste cupiditate quo rerum voluptas ea nam iure fuga, earum, distinctio quisquam dolorem excepturi deleniti totam aut id illum. <strong>Et, aliquid! Ipsa non repellat odio temporibus</strong> beatae alias.</p>
+    <img src="./background.jpg" alt="CAT" />
+    <ol>Items
+        <li>first</li>
+        <li>four</li>
+        <ul>
+        <li>second</li>
+        <li>five</li>
+    </ul></h1> -->
+    <a href="https://google.com/"><h1>Sample Result</h1></a>
+    <h1><strong>John Jay</strong></h1>
+    <p>Instructor at George Madison University</p>
+    <h1><hr/><strong>Education</strong></h1>
+    <p>MBA at Wharton School of Business</p>
+    <h1><hr/><strong>Interest</strong></h1>
+    <p>
+    <ul>
+        <li>millitary Intelligence</li>
+        <li>Nasa</li>
+        <li>Cricket</li>
+        <li>Baseball<hr/></li>
+    </p>
+</body>
+</html>
+
+
+git add .
+git commit -m "Your commit message"
+git push origin main
