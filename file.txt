@@ -37,3 +37,18 @@
 git add .
 git commit -m "Your commit message"
 git push origin main
+
+
+    <img src="" alt="" />
+        <a href=""><button>About</button></a>
+        <a href=""><button>Sign In</button></a>
+
+                        <div class="dropdown">
+                    <a href="Home.html">Home</a>
+                    <a href="News.html">News</a>
+                    <a href="Contact.html">Contact</a>
+                </div>
+            </div>
+
+
+
